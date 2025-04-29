@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
 
     @Override
+
     protected void onCreate( Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
